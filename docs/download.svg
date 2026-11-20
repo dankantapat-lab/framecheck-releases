@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#a6f061"/><stop offset="1" stop-color="#39c6e6"/></linearGradient></defs>
+  <rect width="300" height="56" rx="12" fill="url(#g)"/>
+  <g fill="none" stroke="#0b0d10" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(26 15)">
+    <path d="M13 2v16M6 12l7 7 7-7M3 25h20"/>
+  </g>
+  <text x="62" y="35" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#0b0d10">Download for Mac</text>
+</svg>
