@@ -8,12 +8,14 @@ Leave comments on the picture, then hand them back as Final Cut Pro markers or a
   <sub>macOS 14 or later · Apple Silicon and Intel · <a href="../../releases">All versions</a></sub>
 </p>
 
-<p align="center"><img src="docs/split.png" alt="FRAMECHECK showing the offline and the final side by side, with comments" width="100%"></p>
+<p align="center"><a href="docs/framecheck-promo.mp4"><img src="docs/promo-poster.jpg" alt="Play the 35-second FRAMECHECK video" width="100%"></a><br>
+<sub>▶ <a href="docs/framecheck-promo.mp4">Watch the 35-second video</a> (MP4, 12 MB)</sub></p>
 
 ## What it does
 
 | | |
 |---|---|
+| **Side by side**: the offline and the final play together, locked frame for frame, with your comments alongside. | <img src="docs/split.png" width="420"> |
 | **Wipe**: drag a line across the picture, with the offline on the left and the final on the right. | <img src="docs/wipe.png" width="420"> |
 | **Diff**: anything that changed from the offline lights up, so a missing, extra or recoloured graphic is easy to spot. | <img src="docs/diff.png" width="420"> |
 | **Comments**: press `N` on any frame, type a note, set how serious it is and draw on the picture. Every comment shows as a mark on the timeline. | <img src="docs/tour.png" width="420"> |
@@ -53,4 +55,4 @@ Found a bug or have an idea? Choose **Help › Send Feedback…** in the app, wr
 
 ---
 
-<sub>This repository holds installers only; there is no source code here. The screenshots use synthetic demo footage.</sub>
+<sub>This repository holds installers only; there is no source code here. The screenshots and the video use synthetic demo footage.</sub>
