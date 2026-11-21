@@ -8,8 +8,8 @@ Leave comments on the picture, then hand them back as Final Cut Pro markers or a
   <sub>macOS 14 or later · Apple Silicon and Intel · <a href="../../releases">All versions</a></sub>
 </p>
 
-<p align="center"><a href="docs/framecheck-promo.mp4"><img src="docs/promo-poster.jpg" alt="Play the 35-second FRAMECHECK video" width="100%"></a><br>
-<sub>▶ <a href="docs/framecheck-promo.mp4">Watch the 35-second video</a> (MP4, 12 MB)</sub></p>
+<p align="center"><a href="https://cdn.jsdelivr.net/gh/dankantapat-lab/framecheck-releases@main/docs/framecheck-promo.mp4"><img src="docs/promo-poster.jpg" alt="Play the 35-second FRAMECHECK video" width="100%"></a><br>
+<sub>▶ <a href="https://cdn.jsdelivr.net/gh/dankantapat-lab/framecheck-releases@main/docs/framecheck-promo.mp4">Watch the 35-second video</a> (MP4, 12 MB)</sub></p>
 
 ## What it does
 
